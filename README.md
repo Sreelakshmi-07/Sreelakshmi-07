@@ -80,7 +80,7 @@ const me = {
 ### 🎓 Where It Started
 
 - 🎓 **Master of Computer Applications (MCA)** 
-- 🎓 **Bachelor of Computer Applications (BCA)** (
+- 🎓 **Bachelor of Computer Applications (BCA)** 
 - 📚 Continuously learning through hands-on courses — most recently relational databases and full-stack development
 
 ---
